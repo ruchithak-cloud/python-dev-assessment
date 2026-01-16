@@ -19,8 +19,4 @@ books = [
 ]
 
 for book in books:
-<<<<<<< HEAD
-    print(f"{book.get_summary()} (Age: {book.get_age()} years)") 
-=======
-    print(f"{book.get_summary()} (Age: {book.get_age()} years)")
->>>>>>> task-2.2-oop
+    print(f"{book.get_summary()} (Age: {book.get_age()} years)") #
